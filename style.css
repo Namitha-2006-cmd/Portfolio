@@ -1409,9 +1409,5 @@ body {
     .project-section .nav-btn.prev {
         display: none; /* hide previous button on mobile */
     }
-
-    /* Optional: adjust next button position */
-    .project-section .nav-btn.next {
-        right: 10px; /* move a bit inside */
-    }
 }
+
